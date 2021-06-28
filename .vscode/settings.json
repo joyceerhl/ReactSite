@@ -4,5 +4,8 @@
     "azureFunctions.projectRuntime": "~3",
     "debug.internalConsoleOptions": "neverOpen",
     "azureFunctions.preDeployTask": "npm prune",
-    "azureFunctions.postDeployTask": "npm install"
+    "azureFunctions.postDeployTask": "npm install",
+    "staticWebApps.appSubpath": "app",
+    "staticWebApps.apiSubpath": "api",
+    "staticWebApps.outputSubpath": "dist"
 }

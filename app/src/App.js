@@ -16,13 +16,13 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Everything is fine.
+          Everything is fine. Or is it?
         </a>
-        <a 
+        <a
           className="App-link"
           href="https://cerulean-iguana-839.azurestaticwebsites.net/.auth/login/aad"
         >
-        Log in with Azure AD
+          Log in with Azure AD
         </a>
 
       </header>

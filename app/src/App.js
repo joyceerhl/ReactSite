@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Everything is fine. Or is it?
+          Everything is fine. Or is it? No, is fine.
         </a>
         <a
           className="App-link"
